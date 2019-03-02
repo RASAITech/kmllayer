@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Route # 1-C</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>22# Chungi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0446491,33.5824191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GPO Chowk</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0495548,33.5942814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 3</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0462074,33.5992055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pohree Pull Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0537176,33.6026012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamran Market Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0556917,33.5988123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marir Chowk</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0627835,33.6002957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moti Mahal </name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0667317,33.6027978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fauji Towers</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0837047,33.6066491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAF Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0819559,33.6088026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RMC Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0818727,33.6174047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gai Chowk</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0753094,33.6262292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chandani Chowk</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0723697,33.631415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kali Tank Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0624402,33.6338894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pindora Chungi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0644035,33.6518625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9th -IJP</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0691323,33.6551736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Police Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0644518,33.6606947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khayban johar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0581325,33.6691532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faiz ahmed Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0533957,33.6754882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peshawer morr</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0496755,33.6813986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chamman</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0424684,33.6900224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>G-9/3-4</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.035264,33.6881433,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>G-9/1/2</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0315894,33.6876077,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMCG</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0186504,33.6809924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>G-10 Markaz</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0134469,33.6759435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>G-10 Hiace Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0168667,33.6713654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IJP U turn</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.059715,33.6495918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IJP U turn</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0596024,33.6497525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
