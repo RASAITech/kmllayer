@@ -5,7 +5,7 @@
     <description/>
     <Style id="icon-1899-DB4436-nodesc-normal">
       <IconStyle>
-        <color>501400FF</color>
+        <color>5078FFF0</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -47,7 +47,7 @@
     </StyleMap>
     <Style id="line-1267FF-5000-nodesc-normal">
       <LineStyle>
-        <color>5014F00A</color>
+        <color>5078FFF0</color>
         <width>5</width>
       </LineStyle>
       <BalloonStyle>
@@ -56,7 +56,7 @@
     </Style>
     <Style id="line-1267FF-5000-nodesc-highlight">
       <LineStyle>
-        <color>501400FF</color>
+        <color>5078FFF0</color>
         <width>7.5</width>
       </LineStyle>
       <BalloonStyle>
