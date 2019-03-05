@@ -7,7 +7,7 @@
         "stroke": "blue",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#a9010e",
+        "fill": "yellow",
         "fill-opacity": 0.5
       },
       "geometry": {
